@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\telerik\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\User\Desktop\telerik\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\User\Desktop\telerik\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\User\Desktop\telerik\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\User\Desktop\telerik\Calculator\Calculator\obj\Debug\Calculator.pdb

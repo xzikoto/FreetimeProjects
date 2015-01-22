@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Eastern-Egg\Eastern-Egg\bin\Debug\Eastern-Egg.exe.config
+C:\Users\User\Desktop\telerik\Eastern-Egg\Eastern-Egg\bin\Debug\Eastern-Egg.exe
+C:\Users\User\Desktop\telerik\Eastern-Egg\Eastern-Egg\bin\Debug\Eastern-Egg.pdb
+C:\Users\User\Desktop\telerik\Eastern-Egg\Eastern-Egg\obj\Debug\Eastern-Egg.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Eastern-Egg\Eastern-Egg\obj\Debug\Eastern-Egg.exe
+C:\Users\User\Desktop\telerik\Eastern-Egg\Eastern-Egg\obj\Debug\Eastern-Egg.pdb
